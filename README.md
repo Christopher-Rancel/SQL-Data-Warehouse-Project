@@ -1,41 +1,47 @@
-# SQL-Data-Warehouse-Project
+# 🗄️ SQL Data Warehouse Project
 
-Welcome to the **Data Warehousu and Analytics Project** repository !!
-
-
----
-
-# 🚀 Project Requirements
-
-## Building the Data Warehouse (Data Engineering)
-
-### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-
-#### Specifications
-- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus on the latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+## 📌 Project Overview
+This project focuses on the design and implementation of a SQL-based data warehouse structure to support consistent reporting, data organization, and operational analysis. It simulates how structured data can be prepared for BI and analytics use cases.
 
 ---
 
-### BI: Analytics & Reporting (Data Analytics)
-
-#### Objective
-
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+## 🎯 Objectives
+- Design a structured and organized data model  
+- Improve data consistency and accessibility for reporting  
+- Support KPI tracking and operational analysis  
 
 ---
 
-## 🛡️ License
+## 🛠️ Skills & Tools Used
+- **SQL**
+  - Table creation and data modeling  
+  - Structured datasets for reporting purposes  
+  - Aggregations and analytical queries  
+- Data organization and logical structuring  
+- BI-oriented thinking  
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+---
 
-## About Me
+## 🧱 Project Structure
+- Creation of tables designed for analytical use  
+- Clear separation of data entities  
+- Queries structured to support reporting and visibility  
+
+---
+
+## 📈 Key Outcomes
+- Organized data structure suitable for BI tools and reporting  
+- Improved clarity and consistency of data for analysis  
+- Foundation for operational dashboards and KPI monitoring  
+
+---
+
+## 📂 How to Use
+- Review SQL scripts to understand the data model  
+- Execute queries to explore structured analytical outputs  
+- Adapt the structure for reporting or BI extensions  
+
+---
+
+## 📎 Context
+This project demonstrates foundational data warehouse concepts and supports junior-level data analyst and BI-oriented roles in operational environments.
