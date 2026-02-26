@@ -1,47 +1,66 @@
-# 🗄️ SQL Data Warehouse Project
+# SQL Data Warehouse Project
 
-## 📌 Project Overview
-This project focuses on the design and implementation of a SQL-based data warehouse structure to support consistent reporting, data organization, and operational analysis. It simulates how structured data can be prepared for BI and analytics use cases.
+## Project Overview
+This project focuses on the design and implementation of a structured SQL-based data warehouse to simulate how organizations prepare data for analytical and BI purposes.
 
----
-
-## 🎯 Objectives
-- Design a structured and organized data model  
-- Improve data consistency and accessibility for reporting  
-- Support KPI tracking and operational analysis  
+The objective was to design a scalable and organized data model capable of supporting reporting, KPI tracking, and analytical queries.
 
 ---
 
-## 🛠️ Skills & Tools Used
-- **SQL**
-  - Table creation and data modeling  
-  - Structured datasets for reporting purposes  
-  - Aggregations and analytical queries  
-- Data organization and logical structuring  
-- BI-oriented thinking  
+## Data Model Design
+
+- Implementation of a structured analytical schema  
+- Separation between **fact tables** and **dimension tables**  
+- Logical entity modeling to improve data clarity and consistency  
+- Data structured for BI-oriented querying  
+
+The project simulates a simplified star-schema approach to support analytical workloads.
 
 ---
 
-## 🧱 Project Structure
-- Creation of tables designed for analytical use  
-- Clear separation of data entities  
-- Queries structured to support reporting and visibility  
+## Data Processing Logic
+
+- Structured table creation using SQL  
+- Data aggregation and transformation logic  
+- Analytical queries optimized for reporting use cases  
+- Preparation of datasets suitable for dashboard consumption  
 
 ---
 
-## 📈 Key Outcomes
-- Organized data structure suitable for BI tools and reporting  
-- Improved clarity and consistency of data for analysis  
-- Foundation for operational dashboards and KPI monitoring  
+## Technologies Used
+
+- SQL  
+- Relational Database Concepts  
+- Data Modeling  
+- Aggregations and Analytical Queries  
 
 ---
 
-## 📂 How to Use
-- Review SQL scripts to understand the data model  
-- Execute queries to explore structured analytical outputs  
-- Adapt the structure for reporting or BI extensions  
+## Key Outcomes
+
+- Organized warehouse-ready structure  
+- Improved query clarity for KPI analysis  
+- Structured foundation for BI dashboards and reporting tools  
 
 ---
 
-## 📎 Context
-This project demonstrates foundational data warehouse concepts and supports junior-level data analyst and BI-oriented roles in operational environments.
+## What This Project Demonstrates
+
+- Understanding of data warehouse fundamentals  
+- Ability to design structured analytical databases  
+- Foundations in data engineering concepts  
+- BI-oriented thinking applied to SQL  
+
+---
+
+## Repository Structure
+
+- SQL scripts for schema creation  
+- Analytical queries for reporting  
+- Structured datasets prepared for BI usage  
+
+---
+
+## Context
+
+This project represents foundational data warehouse design concepts and serves as a stepping stone toward data engineering and cloud-based analytical systems.
