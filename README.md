@@ -86,6 +86,6 @@ tests/
 
 ---
 
-## 📎 Context
+## Context
 
 This project represents foundational data engineering concepts implemented using pure SQL and structured pipeline design principles. It serves as a stepping stone toward cloud-based data engineering systems.
